@@ -1,7 +1,7 @@
 # 🏦 Credit Risk Prediction using Logistic Regression, LightGBM, and XGBoost
 
 ## 📘 Project Overview
-Tujuan dari proyek ini adalah membangun model *machine learning* untuk memprediksi risiko gagal bayar calon nasabah menggunakan dataset aplikasi pinjaman.  
+Tujuan dari proyek ini adalah membangun model *machine learning* untuk memprediksi risiko gagal bayar calon nasabah menggunakan dataset Home Credit.  
 Dengan model ini, perusahaan dapat:
 - Mengidentifikasi calon peminjam berisiko tinggi sejak awal.  
 - Mengurangi potensi kerugian akibat kredit macet.  
